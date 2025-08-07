@@ -1,0 +1,123 @@
+:root {
+  --style0-color: #000000; --style0-background: #F160FC;
+  --style1-color: #000000; --style1-background: #0D9034;
+  --style2-color: #000000; --style2-background: #8B9AFD;
+  --style3-color: #000000; --style3-background: #14A8FD;
+  --style4-color: #000000; --style4-background: #009999;
+  --style5-color: #000000; --style5-background: #9999FF;
+  --style6-color: #000000; --style6-background: #FF99CC;
+  --style7-color: #000000; --style7-background: #FF00FF;
+  --style8-color: #000000; --style8-background: #FF1493;
+  --style9-color: #000000; --style9-background: #FF6F59;
+  --style10-color: #000000; --style10-background: #C8FFAC;
+  --style11-color: #000000; --style11-background: #F160FC;
+  --style12-color: #000000; --style12-background: #0D9034;
+  --style13-color: #000000; --style13-background: #8B9AFD;
+  --style14-color: #000000; --style14-background: #14A8FD;
+  --style15-color: #000000; --style15-background: #009999;
+  --style16-color: #000000; --style16-background: #9999FF;
+  --style17-color: #000000; --style17-background: #FF99CC;
+  --style18-color: #000000; --style18-background: #FF00FF;
+  --style19-color: #000000; --style19-background: #FF1493;
+}
+
+/* Now apply the dynamic styles */
+.chrome-extension-FindManyStrings-style-0 {
+  color: var(--style0-color);
+  background: var(--style0-background);
+}
+
+.chrome-extension-FindManyStrings-style-1 {
+  color: var(--style1-color);
+  background: var(--style1-background);
+}
+
+.chrome-extension-FindManyStrings-style-2 {
+  color: var(--style2-color);
+  background: var(--style2-background);
+}
+
+.chrome-extension-FindManyStrings-style-3 {
+  color: var(--style3-color);
+  background: var(--style3-background);
+}
+
+.chrome-extension-FindManyStrings-style-4 {
+  color: var(--style4-color);
+  background: var(--style4-background);
+}
+
+.chrome-extension-FindManyStrings-style-5 {
+  color: var(--style5-color);
+  background: var(--style5-background);
+}
+
+.chrome-extension-FindManyStrings-style-6 {
+  color: var(--style6-color);
+  background: var(--style6-background);
+}
+
+.chrome-extension-FindManyStrings-style-7 {
+  color: var(--style7-color);
+  background: var(--style7-background);
+}
+
+.chrome-extension-FindManyStrings-style-8 {
+  color: var(--style8-color);
+  background: var(--style8-background);
+}
+
+.chrome-extension-FindManyStrings-style-9 {
+  color: var(--style9-color);
+  background: var(--style9-background);
+}
+
+.chrome-extension-FindManyStrings-style-10 {
+  color: var(--style10-color);
+  background: var(--style10-background);
+}
+
+.chrome-extension-FindManyStrings-style-11 {
+  color: var(--style11-color);
+  background: var(--style11-background);
+}
+
+.chrome-extension-FindManyStrings-style-12 {
+  color: var(--style12-color);
+  background: var(--style12-background);
+}
+
+.chrome-extension-FindManyStrings-style-13 {
+  color: var(--style13-color);
+  background: var(--style13-background);
+}
+
+.chrome-extension-FindManyStrings-style-14 {
+  color: var(--style14-color);
+  background: var(--style14-background);
+}
+
+.chrome-extension-FindManyStrings-style-15 {
+  color: var(--style15-color);
+  background: var(--style15-background);
+}
+
+.chrome-extension-FindManyStrings-style-16 {
+  color: var(--style16-color);
+  background: var(--style16-background);
+}
+
+.chrome-extension-FindManyStrings-style-17 {
+  color: var(--style17-color);
+  background: var(--style17-background);
+}
+
+.chrome-extension-FindManyStrings-style-18 {
+  color: var(--style18-color);
+  background: var(--style18-background);
+}
+
+.chrome-extension-FindManyStrings-style-19 {
+  color: var(--style19-color);
+  background: var(--style19-background);
+}

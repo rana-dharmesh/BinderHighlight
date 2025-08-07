@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Options Page :: Binder Highlight</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="highlight.css">
+  <style>
+    .colors {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 10px;
+    }
+    .color-entry {
+      display: flex;
+      align-items: center;
+    }
+    clr{
+      background-color: #F160FC;
+    }
+    
+	
+  </style>
+</head>
+<body>
+<h1><u>Binder Highlight Customization</u></h1>
+<h2>You can customize the color of Binder Highlights</h2> <h2>The first color is text color(foreground color) and the second color is for <clr>highlight (Background Color)</clr></h2>
+
+<div class="colors">
+  <!-- Dynamically populated by JavaScript -->
+</div>
+
+<p>
+  <input type="button" id="reset" value="Reset to Defaults"> - <input type="button" id="save" value="Save Options">
+  <span id="toast"></span>
+
+  <h1> Please click on "Save Options" button to apply the changes </h1>
+</p>
+
+<script src="options.js"></script>
+</body>
+</html>

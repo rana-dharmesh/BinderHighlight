@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "Binder Highlight",
+  "version": "1.0",
+  "description": "Highlight words in Binder",
+  "action": {
+    "default_logo": {
+      "16": "icons/16.png",
+    "32": "icons/32.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": { 
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "64": "icons/64.png",
+    "128": "icons/128.png",
+    "256": "icons/256.png",
+    "512": "icons/512.png"
+  },
+  "content_scripts": [ {
+      "matches": [ "https://web.prd.datasources.numerator.cloud/r/binder" ],
+      "js": [ "jquery/jquery.js", "jquery/jquery.highlight.js","content-action.js","content_script.js"],
+      "css": [ "highlight.css" ],
+      "run_at": "document_end"
+   } ],
+  "background":{
+    "service_worker": "background.js",
+    "type": "module"
+  },
+    "options_page": "options.html",
+  "permissions": [
+  "activeTab", 
+  "storage", 
+  "contextMenus",
+  "scripting"
+  ],
+  "commands": {
+    "browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "chromeos": "Ctrl+Shift+F",
+        "mac": "Command+Shift+F"
+      },
+      "description": "Activate the extension"
+    }
+  }
+  
+}
