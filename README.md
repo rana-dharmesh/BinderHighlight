@@ -35,4 +35,4 @@ This Chrome Extension allows users to highlight text on binder using customizabl
 You can choose any color combination using a Options ⚙️ in the popup interface:
 
   🎨  Background color (e.g. yellow, green, pink)
-  🎨  Foreground (text) color (e.g. black, white, red
+  🎨  Foreground (text) color (e.g. black, white, red)
