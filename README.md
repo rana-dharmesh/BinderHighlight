@@ -20,11 +20,12 @@ This Chrome Extension allows users to highlight text on binder using customizabl
   Manual Installation (Developer Mode)
 
   1. Clone or download this repository:
+
            [https://github.com/rana-dharmesh/BinderHighlight.git ]
-  2.  Open Chrome and go to: chrome://extensions/
-  3.  Enable Developer mode (top right)
-  4.  Click "Load unpacked"
-  5.  Select the folder where this repo was cloned
+  3.  Open Chrome and go to: chrome://extensions/
+  4.  Enable Developer mode (top right)
+  5.  Click "Load unpacked"
+  6.  Select the folder where this repo was cloned
 
 🛠️ Usage
 
