@@ -8,7 +8,9 @@ This Chrome Extension allows users to highlight text on binder using customizabl
 
   ✅ Highlight text with custom background and foreground colors    
   🎯 Easy-to-use popup interface
+
   🔘 **On/Off switch** to enable or disable highlighter functionality instantly
+
   ⚡ Lightweight and fast
 
   
