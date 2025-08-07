@@ -21,7 +21,7 @@ This Chrome Extension allows users to highlight text on binder using customizabl
 
   1. Clone or download this repository:
 
-           [https://github.com/rana-dharmesh/BinderHighlight.git ]
+           https://github.com/rana-dharmesh/BinderHighlight.git
   3.  Open Chrome and go to: chrome://extensions/
   4.  Enable Developer mode (top right)
   5.  Click "Load unpacked"
