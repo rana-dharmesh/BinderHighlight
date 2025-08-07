@@ -6,17 +6,33 @@ This Chrome Extension allows users to highlight text on binder using customizabl
 
 🧩 Features
 
-  ✅ Highlight text with custom background and foreground colors
-    
-  🎯 Easy-to-use context menu and popup interface
-
+  ✅ Highlight text with custom background and foreground colors    
+  🎯 Easy-to-use popup interface
+  🔘 **On/Off switch** to enable or disable highlighter functionality instantly
   ⚡ Lightweight and fast
-  
 
+  
 🚀 Installation
 
   Manual Installation (Developer Mode)
 
   1. Clone or download this repository:
-     
-      [https://github.com/rana-dharmesh/BinderHighlight.git ]  
+           [https://github.com/rana-dharmesh/BinderHighlight.git ]
+  2.  Open Chrome and go to: chrome://extensions/
+  3.  Enable Developer mode (top right)
+  4.  Click "Load unpacked"
+  5.  Select the folder where this repo was cloned
+
+🛠️ Usage
+
+  1.  Use the extension popup and enter the words that you want to highlight using colors.
+  2.  Seperate the words using , (comma)
+      Example :
+      coke,"coca cola",cocacola,ccla
+
+⚙️ Customization
+
+You can choose any color combination using a Options ⚙️ in the popup interface:
+
+  🎨  Background color (e.g. yellow, green, pink)
+  🎨  Foreground (text) color (e.g. black, white, red
