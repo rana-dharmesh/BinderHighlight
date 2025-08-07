@@ -31,7 +31,9 @@ This Chrome Extension allows users to highlight text on binder using customizabl
 
   1.  Use the extension popup and enter the words that you want to highlight using colors.
   2.  Seperate the words using , (comma)
+     
       Example :
+      
       coke,"coca cola",cocacola,ccla
 
 ⚙️ Customization
